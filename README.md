@@ -7,4 +7,5 @@ This repository contains datasets, which contain data from McCabe and Halstead f
 * Logistic Regression
 * Deep Neural Network
 * 1D CNN
+  
 _Also used PCA as a method to reduce dimensionality and enhance the accuracy_
